@@ -1,0 +1,5 @@
+$git status
+$git add.
+$git commit -m "texto"   -> en caso de error ( > ) apretar ctrl+c
+$git push origin <rama>
+
